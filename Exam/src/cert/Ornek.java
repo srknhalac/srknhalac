@@ -9,6 +9,7 @@ public class Ornek {
 		System.out.println(Arrays.toString(arr1));
 		Arrays.sort(arr1);
 		/*2 sayı arasında ki fark 1 olmak zorunda*/
+		Arrays.sort(arr1);
 	try {
 		for(int i=0; i<arr1.length; ++i) {
 				int min=arr1[i];
