@@ -7,7 +7,7 @@ public class Ornek {
 		int[] arr1={7,5,6,1,4,2};
 		Arrays.sort(arr1);
 		System.out.println(Arrays.toString(arr1));
-
+		Arrays.sort(arr1);
 		/*2 sayı arasında ki fark 1 olmak zorunda*/
 	try {
 		for(int i=0; i<arr1.length; ++i) {
